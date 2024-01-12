@@ -1,0 +1,9 @@
+{
+    "WorkflowName": "SimpleWorkflow",
+    "Rules": [
+        {
+            "RuleName": "compare decimal rule",
+            "Expression": "fact.SomeValue < 20"
+        }
+    ]
+}
